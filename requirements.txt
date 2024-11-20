@@ -1,0 +1,5 @@
+python-dotenv
+python-telegram-bot
+groq
+openai
+chatgpt-md-converter
