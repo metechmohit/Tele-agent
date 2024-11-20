@@ -5,7 +5,7 @@ from telegram.ext import CallbackQueryHandler, filters, MessageHandler, Applicat
 import os
 from dotenv import load_dotenv
 from groq import Groq
-from chatgpt_md_converter import telegram_format
+from txt_formatter import telegram_format
 
 
 load_dotenv()
