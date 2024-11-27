@@ -1,5 +1,15 @@
-python-dotenv
-python-telegram-bot
-groq
-openai
-chatgpt-md-converter
+# python-dotenv
+# python-telegram-bot
+# groq
+# openai
+# chatgpt-md-converter
+# pyngrok==7.2.1
+# PyYAML==6.0.2
+# Flask
+
+python-telegram-bot==20.5
+fastapi==0.100.1
+python-dotenv==1.0.0
+groq==1.2.0  # Replace with the correct version if available
+txt-formatter==1.0.0  # Replace with the correct version if available
+uvicorn==0.23.2
