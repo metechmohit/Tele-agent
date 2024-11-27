@@ -10,6 +10,5 @@
 python-telegram-bot==20.5
 fastapi==0.100.1
 python-dotenv==1.0.0
-groq==1.2.0  # Replace with the correct version if available
-txt-formatter==1.0.0  # Replace with the correct version if available
+groq==0.12.0  
 uvicorn==0.23.2
